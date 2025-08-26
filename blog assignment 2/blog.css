@@ -1,0 +1,14 @@
+h1,h2{
+    color: olive;
+    text-align: center;
+}
+body{
+    background-color: ;
+}
+h1:hover{
+    color: rgb(107, 47, 60);
+    
+}
+h2:hover{
+    color: rgb(240, 250, 255);
+}
