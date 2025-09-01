@@ -1,6 +1,7 @@
 h1,h2{
-    color: olive;
+    color: rgb(128, 68, 0);
     text-align: center;
+    background-color: gray;
 }
 body{
     background-color: ;
