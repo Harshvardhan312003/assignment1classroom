@@ -1,0 +1,22 @@
+.fixed{
+    background-color: rgb(114, 19, 19);
+    display: inline-block;
+    padding: 10%;
+    height: 100px;
+    width:100px;
+    border: 4px solid;
+    position: absolute;
+    top: 70%;
+    bottom: 90%;
+    right: 10%;
+
+}
+.static{
+    background-color: rgb(129, 169, 169);
+    display: inline-block;
+    padding: 10%;
+    height: 100px;
+    width: 100px;
+     border: 4px solid;
+    
+}
