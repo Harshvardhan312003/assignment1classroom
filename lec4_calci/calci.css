@@ -1,0 +1,29 @@
+.main{
+    background-color:black ;
+    display: inline-block;
+    padding: 10px;
+
+}
+.operator{
+    background-color: rgb(211, 207, 207);
+    border: 1px solid black;
+    border-radius: 50px;
+    padding: 10px;
+   width:30px ;
+   height: 30px;
+   text-align: center;
+
+}
+.number{
+     background-color: rgb(107, 42, 42);
+    border: 1px solid rgb(128, 165, 52);
+    border-radius: 50px;
+    padding: 10px;
+   width:30px ;
+   height: 30px;
+   text-align: center;
+
+}
+.number,.operator{
+    display: inline-block;
+}
